@@ -1,0 +1,11 @@
+prefix=D:/WGU/Capstone/SpinalAbnormality/venv/Library
+exec_prefix=D:/WGU/Capstone/SpinalAbnormality/venv/Library
+libdir=D:/WGU/Capstone/SpinalAbnormality/venv/Library/lib
+includedir=D:/WGU/Capstone/SpinalAbnormality/venv/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LD:/WGU/Capstone/SpinalAbnormality/venv/Library/lib -ltiff
+Libs.private: 
+Cflags: -ID:/WGU/Capstone/SpinalAbnormality/venv/Library/include
