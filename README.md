@@ -13,5 +13,5 @@ Click the link below to open the Jupyter Notebook in Binder:
 
 Then click the green circle at the top of the notebook's tab to run the application.)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchrysl/spinal-abnormality-predictor.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchrysl/spinal-abnormality-predictor/bd87bff36c0a1b281f6459cfd21658c16ce92820?urlpath=lab%2Ftree%2FSpinalAbnormalitiesPredictor.ipynb)
 
