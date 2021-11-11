@@ -7,8 +7,11 @@ The web app also displays a number of graphs of the original dataset that shows 
 
 Note: This is a computer science final project and has neither been reviewed nor approved for any kind of actual medical diagnosis.
 
-<!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchrysl/spinal-abnormality-predictor.git/main)-->
+Click the link below to open the Jupyter Notebook in Binder:
 
-Click the link below to run the web app:
+(Double-click the file SpinalAbnormalityPredictor.ipynb in the left column to open the notebook.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/mchrysl-spinal--ality-predictor-g4mg9d8v/voila/render/SpinalAbnormalitiesPredictor.ipynb)
+Then click the green circle at the top of the notebook's tab to run the application.)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchrysl/spinal-abnormality-predictor.git/main)
+
